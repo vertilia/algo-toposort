@@ -1,0 +1,23 @@
+{
+  "name": "vertilia/algo-toposort",
+  "description": "Topological sort algorithm",
+  "keywords": ["topo", "topological", "sort"],
+  "license": "BSD-2-Clause",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "Vertilia\\Algo\\TopoSort\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Vertilia\\Algo\\TopoSort\\Test\\": "tests/"
+    }
+  },
+  "require": {
+    "php": ">=7.4"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^9"
+  }
+}
