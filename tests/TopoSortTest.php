@@ -6,7 +6,7 @@ use PHPUnit\Framework\TestCase;
 use Vertilia\Algo\TopoSort\TopoSort;
 
 /**
- * @coversDefaultClass \Vertilia\Algo\TopoSort\TopoSort
+ * @coversDefaultClass TopoSort
  */
 class TopoSortTest extends TestCase
 {

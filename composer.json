@@ -1,7 +1,7 @@
 {
   "name": "vertilia/algo-toposort",
   "description": "Topological sort algorithm",
-  "keywords": ["topo", "topological", "sort"],
+  "keywords": ["topo", "topological", "sort", "depth-first", "search"],
   "license": "BSD-2-Clause",
   "type": "library",
   "autoload": {

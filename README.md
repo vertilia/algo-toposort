@@ -92,3 +92,13 @@ Array
     [4] => e
 )
 ```
+
+Resulting order:
+
+```mermaid
+graph LR
+    a --> c
+    c --> b
+    b --> d
+    d --> e
+```
